@@ -3,19 +3,19 @@ MNIST Autoencoders – Vanilla, Convolutional, Denoising & Variational
 This project demonstrates four different types of Autoencoders built and trained on the MNIST handwritten digits dataset. Each model learns compressed latent representations and reconstructs input images, showcasing the power of neural compression and generative modeling.
 
 🚀 Autoencoders Implemented
-Vanilla Autoencoder
+1️⃣ Vanilla Autoencoder
 
 Simple fully-connected encoder–decoder architecture for basic dimensionality reduction and reconstruction.
 
- Convolutional Autoencoder
+2️⃣ Convolutional Autoencoder
 
 Uses Conv2D & Conv2DTranspose layers for improved spatial feature extraction and cleaner reconstructions.
 
- Denoising Autoencoder
+3️⃣ Denoising Autoencoder
 
 Learns to remove noise from corrupted MNIST images, improving robustness and feature learning.
 
- Variational Autoencoder (VAE)
+4️⃣ Variational Autoencoder (VAE)
 
 A probabilistic generative model that learns latent distributions and can generate new digit samples.
 
