@@ -67,6 +67,9 @@ Reconstructed MNIST digits
 
 Noisy vs cleaned images
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5670343-b273-4435-ad20-b5a0784d26c0" />
+
+
 VAE-generated samples
 
 Training loss curves
